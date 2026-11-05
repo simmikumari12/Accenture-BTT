@@ -1,0 +1,12 @@
+data/*
+!data/.gitkeep
+
+.ipynb_checkpoints/
+
+.DS_Store
+
+# Jupyter temporary files
+.virtual_documents/
+
+# Local Anaconda files
+anaconda_projects/
